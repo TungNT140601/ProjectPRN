@@ -1,0 +1,5 @@
+D:\Ky5\File\PRN211\ProjectPRN\TestImportClass\TestImportClass\obj\Debug\net6.0\TestImportClass.csproj.AssemblyReference.cache
+D:\Ky5\File\PRN211\ProjectPRN\TestImportClass\TestImportClass\obj\Debug\net6.0\TestImportClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky5\File\PRN211\ProjectPRN\TestImportClass\TestImportClass\obj\Debug\net6.0\TestImportClass.AssemblyInfoInputs.cache
+D:\Ky5\File\PRN211\ProjectPRN\TestImportClass\TestImportClass\obj\Debug\net6.0\TestImportClass.AssemblyInfo.cs
+D:\Ky5\File\PRN211\ProjectPRN\TestImportClass\TestImportClass\obj\Debug\net6.0\TestImportClass.csproj.CoreCompileInputs.cache

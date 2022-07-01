@@ -1,0 +1,15 @@
+D:\Ky5\File\PRN211\ProjectPRN\DemoSlot8\DemoSlot8\bin\Debug\net6.0\DemoSlot8.exe
+D:\Ky5\File\PRN211\ProjectPRN\DemoSlot8\DemoSlot8\bin\Debug\net6.0\DemoSlot8.deps.json
+D:\Ky5\File\PRN211\ProjectPRN\DemoSlot8\DemoSlot8\bin\Debug\net6.0\DemoSlot8.runtimeconfig.json
+D:\Ky5\File\PRN211\ProjectPRN\DemoSlot8\DemoSlot8\bin\Debug\net6.0\DemoSlot8.dll
+D:\Ky5\File\PRN211\ProjectPRN\DemoSlot8\DemoSlot8\bin\Debug\net6.0\DemoSlot8.pdb
+D:\Ky5\File\PRN211\ProjectPRN\DemoSlot8\DemoSlot8\obj\Debug\net6.0\DemoSlot8.csproj.AssemblyReference.cache
+D:\Ky5\File\PRN211\ProjectPRN\DemoSlot8\DemoSlot8\obj\Debug\net6.0\DemoSlot8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky5\File\PRN211\ProjectPRN\DemoSlot8\DemoSlot8\obj\Debug\net6.0\DemoSlot8.AssemblyInfoInputs.cache
+D:\Ky5\File\PRN211\ProjectPRN\DemoSlot8\DemoSlot8\obj\Debug\net6.0\DemoSlot8.AssemblyInfo.cs
+D:\Ky5\File\PRN211\ProjectPRN\DemoSlot8\DemoSlot8\obj\Debug\net6.0\DemoSlot8.csproj.CoreCompileInputs.cache
+D:\Ky5\File\PRN211\ProjectPRN\DemoSlot8\DemoSlot8\obj\Debug\net6.0\DemoSlot8.dll
+D:\Ky5\File\PRN211\ProjectPRN\DemoSlot8\DemoSlot8\obj\Debug\net6.0\refint\DemoSlot8.dll
+D:\Ky5\File\PRN211\ProjectPRN\DemoSlot8\DemoSlot8\obj\Debug\net6.0\DemoSlot8.pdb
+D:\Ky5\File\PRN211\ProjectPRN\DemoSlot8\DemoSlot8\obj\Debug\net6.0\DemoSlot8.genruntimeconfig.cache
+D:\Ky5\File\PRN211\ProjectPRN\DemoSlot8\DemoSlot8\obj\Debug\net6.0\ref\DemoSlot8.dll

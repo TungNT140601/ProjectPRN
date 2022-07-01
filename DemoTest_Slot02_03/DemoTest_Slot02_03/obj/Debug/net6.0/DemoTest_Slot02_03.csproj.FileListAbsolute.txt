@@ -1,0 +1,15 @@
+D:\Ky5\File\PRN211\ProjectPRN\DemoTest_Slot02_03\DemoTest_Slot02_03\bin\Debug\net6.0\DemoTest_Slot02_03.exe
+D:\Ky5\File\PRN211\ProjectPRN\DemoTest_Slot02_03\DemoTest_Slot02_03\bin\Debug\net6.0\DemoTest_Slot02_03.deps.json
+D:\Ky5\File\PRN211\ProjectPRN\DemoTest_Slot02_03\DemoTest_Slot02_03\bin\Debug\net6.0\DemoTest_Slot02_03.runtimeconfig.json
+D:\Ky5\File\PRN211\ProjectPRN\DemoTest_Slot02_03\DemoTest_Slot02_03\bin\Debug\net6.0\DemoTest_Slot02_03.dll
+D:\Ky5\File\PRN211\ProjectPRN\DemoTest_Slot02_03\DemoTest_Slot02_03\bin\Debug\net6.0\DemoTest_Slot02_03.pdb
+D:\Ky5\File\PRN211\ProjectPRN\DemoTest_Slot02_03\DemoTest_Slot02_03\obj\Debug\net6.0\DemoTest_Slot02_03.csproj.AssemblyReference.cache
+D:\Ky5\File\PRN211\ProjectPRN\DemoTest_Slot02_03\DemoTest_Slot02_03\obj\Debug\net6.0\DemoTest_Slot02_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky5\File\PRN211\ProjectPRN\DemoTest_Slot02_03\DemoTest_Slot02_03\obj\Debug\net6.0\DemoTest_Slot02_03.AssemblyInfoInputs.cache
+D:\Ky5\File\PRN211\ProjectPRN\DemoTest_Slot02_03\DemoTest_Slot02_03\obj\Debug\net6.0\DemoTest_Slot02_03.AssemblyInfo.cs
+D:\Ky5\File\PRN211\ProjectPRN\DemoTest_Slot02_03\DemoTest_Slot02_03\obj\Debug\net6.0\DemoTest_Slot02_03.csproj.CoreCompileInputs.cache
+D:\Ky5\File\PRN211\ProjectPRN\DemoTest_Slot02_03\DemoTest_Slot02_03\obj\Debug\net6.0\DemoTest_Slot02_03.dll
+D:\Ky5\File\PRN211\ProjectPRN\DemoTest_Slot02_03\DemoTest_Slot02_03\obj\Debug\net6.0\refint\DemoTest_Slot02_03.dll
+D:\Ky5\File\PRN211\ProjectPRN\DemoTest_Slot02_03\DemoTest_Slot02_03\obj\Debug\net6.0\DemoTest_Slot02_03.pdb
+D:\Ky5\File\PRN211\ProjectPRN\DemoTest_Slot02_03\DemoTest_Slot02_03\obj\Debug\net6.0\DemoTest_Slot02_03.genruntimeconfig.cache
+D:\Ky5\File\PRN211\ProjectPRN\DemoTest_Slot02_03\DemoTest_Slot02_03\obj\Debug\net6.0\ref\DemoTest_Slot02_03.dll

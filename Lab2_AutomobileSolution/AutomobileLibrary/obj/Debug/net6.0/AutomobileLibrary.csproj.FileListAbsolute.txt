@@ -1,0 +1,13 @@
+D:\Ky5\File\PRN211\ProjectPRN\Lab2_AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AppSetting.json
+D:\Ky5\File\PRN211\ProjectPRN\Lab2_AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.deps.json
+D:\Ky5\File\PRN211\ProjectPRN\Lab2_AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.dll
+D:\Ky5\File\PRN211\ProjectPRN\Lab2_AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.pdb
+D:\Ky5\File\PRN211\ProjectPRN\Lab2_AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.AssemblyReference.cache
+D:\Ky5\File\PRN211\ProjectPRN\Lab2_AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky5\File\PRN211\ProjectPRN\Lab2_AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfoInputs.cache
+D:\Ky5\File\PRN211\ProjectPRN\Lab2_AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfo.cs
+D:\Ky5\File\PRN211\ProjectPRN\Lab2_AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+D:\Ky5\File\PRN211\ProjectPRN\Lab2_AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.dll
+D:\Ky5\File\PRN211\ProjectPRN\Lab2_AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\refint\AutomobileLibrary.dll
+D:\Ky5\File\PRN211\ProjectPRN\Lab2_AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.pdb
+D:\Ky5\File\PRN211\ProjectPRN\Lab2_AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\ref\AutomobileLibrary.dll

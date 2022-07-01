@@ -1,0 +1,11 @@
+//{
+//  "ConnectionStrings": {
+//    "FPT_EduDB": "Server=(local);uid=sa;pwd=1;database=FPT_Edu;TrustServerCertificate=True"
+//  }
+//}
+
+{
+  "ConnectionString": {
+    "Fpt_EduDB": "Server=(local); uid=sa; pwd=1;database=FPT_Edu;TrustServerCertificate=True"
+  }
+}

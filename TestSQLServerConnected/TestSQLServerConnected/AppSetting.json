@@ -1,0 +1,5 @@
+{
+  "ConnectionString": {
+    "FPT_Edu": "Server=(local); uid=sa; pwd=1; database=FPT_Edu;TrustServerCertificate=True"
+  }
+}
