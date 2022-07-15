@@ -1,0 +1,14 @@
+D:\Ky5\File\PRN211\PRN211_Project_Local\DemoAss2_Tung\BussinessObject\bin\Debug\net6.0\BussinessObject.deps.json
+D:\Ky5\File\PRN211\PRN211_Project_Local\DemoAss2_Tung\BussinessObject\bin\Debug\net6.0\BussinessObject.dll
+D:\Ky5\File\PRN211\PRN211_Project_Local\DemoAss2_Tung\BussinessObject\bin\Debug\net6.0\BussinessObject.pdb
+D:\Ky5\File\PRN211\PRN211_Project_Local\DemoAss2_Tung\BussinessObject\obj\Debug\net6.0\BussinessObject.csproj.AssemblyReference.cache
+D:\Ky5\File\PRN211\PRN211_Project_Local\DemoAss2_Tung\BussinessObject\obj\Debug\net6.0\BussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky5\File\PRN211\PRN211_Project_Local\DemoAss2_Tung\BussinessObject\obj\Debug\net6.0\BussinessObject.AssemblyInfoInputs.cache
+D:\Ky5\File\PRN211\PRN211_Project_Local\DemoAss2_Tung\BussinessObject\obj\Debug\net6.0\BussinessObject.AssemblyInfo.cs
+D:\Ky5\File\PRN211\PRN211_Project_Local\DemoAss2_Tung\BussinessObject\obj\Debug\net6.0\BussinessObject.csproj.CoreCompileInputs.cache
+D:\Ky5\File\PRN211\PRN211_Project_Local\DemoAss2_Tung\BussinessObject\obj\Debug\net6.0\BussinessObject.dll
+D:\Ky5\File\PRN211\PRN211_Project_Local\DemoAss2_Tung\BussinessObject\obj\Debug\net6.0\refint\BussinessObject.dll
+D:\Ky5\File\PRN211\PRN211_Project_Local\DemoAss2_Tung\BussinessObject\obj\Debug\net6.0\BussinessObject.pdb
+D:\Ky5\File\PRN211\PRN211_Project_Local\DemoAss2_Tung\BussinessObject\obj\Debug\net6.0\ref\BussinessObject.dll
+D:\Ky5\File\PRN211\PRN211_Project_Local\DemoAss2_Tung\BussinessObject\bin\Debug\net6.0\BussinessObject.runtimeconfig.json
+D:\Ky5\File\PRN211\PRN211_Project_Local\DemoAss2_Tung\BussinessObject\obj\Debug\net6.0\BussinessObject.genruntimeconfig.cache

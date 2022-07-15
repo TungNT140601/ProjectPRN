@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ky5\\File\\PRN211\\PRN211_Project\\Assignment2\\SalesWinApp\\SalesWinApp.csproj",
+      "projectUniqueName": "D:\\Ky5\\File\\PRN211\\PRN211_Project\\PRN211_Project1\\Assignment2\\SalesWinApp\\SalesWinApp.csproj",
       "projectName": "SalesWinApp",
-      "projectPath": "D:\\Ky5\\File\\PRN211\\PRN211_Project\\Assignment2\\SalesWinApp\\SalesWinApp.csproj",
+      "projectPath": "D:\\Ky5\\File\\PRN211\\PRN211_Project\\PRN211_Project1\\Assignment2\\SalesWinApp\\SalesWinApp.csproj",
       "packagesPath": "C:\\Users\\tungn\\.nuget\\packages\\",
-      "outputPath": "D:\\Ky5\\File\\PRN211\\PRN211_Project\\Assignment2\\SalesWinApp\\obj\\",
+      "outputPath": "D:\\Ky5\\File\\PRN211\\PRN211_Project\\PRN211_Project1\\Assignment2\\SalesWinApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
